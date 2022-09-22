@@ -6,8 +6,10 @@
 - Express
 - MySQL
 - MongoDB
+- PostgreSQL
 - TypeScript
 - AWS
+- Nginx
 
 
 📲 How to reach me: 
