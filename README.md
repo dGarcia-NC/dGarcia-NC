@@ -3,11 +3,12 @@
 💻 Tech Stack:
 - React
 - JavaScript
+- TypeScript
+- Go
 - Express
 - MySQL
 - MongoDB
 - PostgreSQL
-- TypeScript
 - AWS
 - Nginx
 
